@@ -26,7 +26,7 @@ import io.netty.channel.socket.nio.NioSocketChannel;
 
 /**
  * @author lilinfeng
- * @date 2014年2月14日
+ * @date 
  * @version 1.0
  */
 public class TimeClient {
